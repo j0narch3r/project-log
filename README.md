@@ -47,3 +47,9 @@ A browser extension to round up online purchases for charity
 ### Unaccent
 
 Improve your language skills by matching online native pronunciations
+
+# Experiments
+
+### Writing Prompts
+
+What it says. [Checkout the prototype](http://jonathanarcher.co/things/writingprompts/).
