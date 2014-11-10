@@ -24,7 +24,7 @@ Clarity.fm for creatives (coming soon to Assembly).
 Founder.
 
 
-# Projects sitting around in various stages of development
+# Projects sitting around in various stages of "development"
 (Contact me if any of these interest you. Maybe we can work together!)
 
 ### waiTSA
