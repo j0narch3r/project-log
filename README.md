@@ -11,16 +11,17 @@ So I hope that posting here will get some of them moving.
 ### Pay It Forward
 
 A Ponzi Scheme for Social Good.  
-Under development by the community at [Assembly](http://assembly.com/pay-it-forward)
+Product design, under development by the community at [Assembly](http://assembly.com/pay-it-forward).
 
 ### Gig Radio
 
 An app to let you discover music by listening to bands playing near you tonight.  
-Under development by the community at [Assembly](http://assembly.com/gig-radio)
+Web design, under development by the community at [Assembly](http://assembly.com/gig-radio).
 
 ### Genius
 
-Clarity.fm for creatives (coming soon to Assembly)
+Clarity.fm for creatives (coming soon to Assembly).  
+Founder.
 
 
 # Projects sitting around in various stages of development
