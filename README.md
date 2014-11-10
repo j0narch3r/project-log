@@ -1,7 +1,10 @@
 project-log
 ===========
 
-I have finally decided to get ideas out of my notes file on my hard drive. They will only die without the oxygen of feedback and community so I hope that posting here will get some of them moving.
+I have finally decided to get ideas out of my notes file on my hard drive.
+They will only die without the oxygen of feedback and community.
+Honestly, too many have already suffered that fate over the years.
+So I hope that posting here will get some of them moving.
 
 # Projects in development
 
