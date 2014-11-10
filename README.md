@@ -5,12 +5,12 @@ project-log
 
 ### Pay It Forward
 
-A Ponzi Scheme for Social Good. 
+A Ponzi Scheme for Social Good.  
 Under development by the community at [Assembly](http://assembly.com/pay-it-forward)
 
 ### Gig Radio
 
-An app to let you discover music by listening to bands playing near you tonight.
+An app to let you discover music by listening to bands playing near you tonight.  
 Under development by the community at [Assembly](http://assembly.com/gig-radio)
 
 ### Genius
