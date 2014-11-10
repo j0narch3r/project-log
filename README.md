@@ -37,7 +37,8 @@ Online search for brick-and-mortar shopping
 
 ### Playdate.me
 
-The best way to meet new parents in your area
+The best way to meet new parents in your area  
+[Playdate.me](http://signup.playdate.me)
 
 ### RoundUp
 
