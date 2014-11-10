@@ -48,7 +48,7 @@ A browser extension to round up online purchases for charity
 
 Improve your language skills by matching online native pronunciations
 
-# Experiments
+# Quick Hacks
 
 ### Writing Prompts
 
