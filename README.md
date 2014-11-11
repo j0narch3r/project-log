@@ -20,8 +20,8 @@ Web design, visual identity. Under development by the community at [Assembly](ht
 
 ### Genius
 
-Clarity.fm for creatives (coming soon to Assembly).  
-Founder.
+On demand advice for  creatives.  
+Founder. Focused on product, ux, strategy, growth. Coming soon to Assembly.
 
 
 # Projects sitting around in various stages of "development"
