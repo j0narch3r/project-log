@@ -48,6 +48,11 @@ A browser extension to round up online purchases for charity
 
 Improve your language skills by matching online native pronunciations
 
+### Beach Radio
+
+Make your iPhone iTunes playlist sound like it's drifting across a beach from an old transistor radio. Ah, nostalgia.  
+(Could use [this](http://theamazingaudioengine.com/)).
+
 # Quick Hacks
 
 ### Writing Prompts
