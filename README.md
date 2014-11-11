@@ -42,7 +42,7 @@ The best way to meet new parents in your area
 
 ### RoundUp
 
-A browser extension to round up online purchases for charity
+A browser extension to round up online purchases for charity. Amazon Smile, everywhere.
 
 ### Unaccent
 
