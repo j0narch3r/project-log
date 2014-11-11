@@ -11,12 +11,12 @@ So I hope that posting here will get some of them moving.
 ### Pay It Forward
 
 A Ponzi Scheme for Social Good.  
-Product design, under development by the community at [Assembly](http://assembly.com/pay-it-forward).
+Design Lead, Product design. Under development by the community at [Assembly](http://assembly.com/pay-it-forward).
 
 ### Gig Radio
 
 An app to let you discover music by listening to bands playing near you tonight.  
-Web design, under development by the community at [Assembly](http://assembly.com/gig-radio).
+Web design, visual identity. Under development by the community at [Assembly](http://assembly.com/gig-radio).
 
 ### Genius
 
