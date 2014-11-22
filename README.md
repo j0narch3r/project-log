@@ -1,12 +1,9 @@
 project-log
 ===========
 
-I have finally decided to get ideas out of my notes file on my hard drive.
-They will only die without the oxygen of feedback and community.
-Honestly, too many have already suffered that fate over the years.
-So I hope that posting here will get some of them moving.
+An open list of projects and ideas.  
 
-# Projects in development
+# Projects in active development
 
 ### Pay It Forward
 
@@ -18,14 +15,14 @@ Design Lead, Product design. Under development by the community at [Assembly](ht
 An app to let you discover music by listening to bands playing near you tonight.  
 Web design, visual identity. Under development by the community at [Assembly](http://assembly.com/gig-radio).
 
+
+# Projects in utero
+(Contact me if any of these interest you. Maybe we can work together!)
+
 ### Genius
 
-On demand advice for  creatives.  
+On demand advice for creatives.  
 Founder. Focused on product, ux, strategy, growth. Coming soon to Assembly.
-
-
-# Projects sitting around in various stages of "development"
-(Contact me if any of these interest you. Maybe we can work together!)
 
 ### Groupeesy
 
