@@ -27,6 +27,10 @@ Founder. Focused on product, ux, strategy, growth. Coming soon to Assembly.
 # Projects sitting around in various stages of "development"
 (Contact me if any of these interest you. Maybe we can work together!)
 
+### Groupeesy
+
+Simple and delightful mobile group invite and messaging app.
+
 ### waiTSA
 
 Crowdsourced secutiry wait times at airports
