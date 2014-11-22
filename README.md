@@ -1,7 +1,7 @@
 project-log
 ===========
 
-An open list of projects and ideas.  
+An open list of projects in various stages of development.  
 
 # Projects in active development
 
