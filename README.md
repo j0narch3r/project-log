@@ -5,7 +5,7 @@ An open list of projects in various stages of development.
 
 # Launched
 
-### Tweetyi-Pi
+### Tweety-Pi
 
 Tweet in unison at Pi time on Pi Day.
 Founder, designer. Launched in 24 hours as side-project.
@@ -24,13 +24,14 @@ An app to let you discover music by listening to bands playing near you tonight.
 Web design, visual identity. Under development by the community at [Assembly](http://assembly.com/gig-radio).
 
 
-# Projects in utero
+# Projects on deck
 (Contact me if any of these interest you. Maybe we can work together!)
 
 ### Genius
 
 On demand advice for creatives.  
 Founder. Focused on product, ux, strategy, growth. Coming soon to Assembly.
+[Genius (landing page)](http://genius.asm.co/)
 
 ### Groupeesy
 
