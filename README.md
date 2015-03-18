@@ -9,6 +9,7 @@ An open list of projects in various stages of development.
 
 Tweet in unison at Pi time on Pi Day.
 Co-founder, designer. Launched in 24 hours as side-project. Currently exploring further development on [Assembly](http://assembly.com/pi-tweet).
+
 [Tweety-Pi](http://www.tweetypi.co)
 
 # Projects in active development
